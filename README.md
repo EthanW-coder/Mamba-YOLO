@@ -2,10 +2,22 @@
 
 ![Python 3.11](https://img.shields.io/badge/python-3.11-g) ![pytorch 2.3.0](https://img.shields.io/badge/pytorch-2.3.0-blue.svg) [![docs](https://img.shields.io/badge/docs-latest-blue)](README.md)
 
+<div align="center">
+  
+Zeyu Wang<sup>1,2</sup>, Chen Li<sup>1,2</sup>, Huiying Xu<sup>1,2,†</sup>, Xinzhong Zhu<sup>1,2,3,†</sup>, Hongbo Li<sup>3</sup>
+
+<sup>1</sup>College of Computer Science and Technology, Zhejiang Normal University, Zhejiang, 311231, China  
+
+<sup>2</sup>Research Institute of Hangzhou Artificial Intelligence, Zhejiang Normal University, Hangzhou, Zhejiang, 311231, China  
+
+<sup>3</sup>Beijing Geekplus Technology Co, Ltd, Beijing, 100101, China  
+
+</div>
 
 <div align="center">
   <img src="./asserts/mambayolo.jpg" width="1200px"/>
 </div>
+
 
 ## Model Zoo
 
